@@ -104,7 +104,7 @@ Build the project below.
 ---
 
 ## OS (Operating System) :
-playList : https://www.youtube.com/watch?v=NyWYS7pUer0&list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV
+Course playList : https://www.youtube.com/watch?v=NyWYS7pUer0&list=PLSGEGD0dbMKoigQWgVJ_UoUJUGQPCHXKV
 
 A 7-week self-paced roadmap to build a solid understanding of Operating Systems. Weeks 1–6 follow one video per week from the OS playlist. Week 7 covers Linux basics.
 
