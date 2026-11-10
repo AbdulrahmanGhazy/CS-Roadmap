@@ -30,7 +30,7 @@
 - [ ]  Top-K problems
 - [ ]  Practice: problems (Two Sum, group anagrams)  and Implementation DS
 
-## Part 4: Remaining Topics
+## Part 4: Advanced Topics
 
 ### Week 5: Sorting algorithms
 
