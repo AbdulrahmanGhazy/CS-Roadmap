@@ -61,13 +61,13 @@
 - [ ]  N-Queens
 - [ ]  Practice: 10 - 15 problems
 
-### Week 10: Divide & Conquer
+### Week 9: Divide & Conquer
 
 - [ ]  Divide & Conquer paradigm
 - [ ]  Merge and Quick Sort
 - [ ]  Practice:  problems & implementation algorithms
 
-### Week 11: Graphs: DFS
+### Week 10: Graphs: DFS
 
 - [ ]  Graph basics, adjacency list and matrix
 - [ ]  DFS (recursive)
@@ -76,7 +76,7 @@
 - [ ]  Grid problems (islands, flood fill)
 - [ ]  Practice: 12 problems
 
-### Week 12: Graphs: BFS
+### Week 11: Graphs: BFS
 
 - [ ]  BFS with a queue
 - [ ]  BFS 0 - 1
@@ -84,7 +84,7 @@
 - [ ]  Grid BFS and multi-source BFS
 - [ ]  Practice: 12 problems
 
-### Week 13: Dijkstra
+### Week 12: Dijkstra
 
 - [ ]  Dijkstra with priority_queue
 - [ ]  Weighted shortest path
@@ -92,7 +92,7 @@
 - [ ]  Dijkstra with one or more state trick
 - [ ]  Practice: 10 problems
 
-### Week 14: DP (Recursive)
+### Week 13: DP (Recursive)
 
 - [ ]  Memoization
 - [ ]  0/1 knapsack
@@ -100,7 +100,7 @@
 - [ ]  DP Building output
 - [ ]  Practice: 15 problems
 
-### Week 15: Bitmask
+### Week 14: Bitmask
 
 - [ ]  AND, OR, XOR, shifts
 - [ ]  Subsets with bitmask
