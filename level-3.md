@@ -39,7 +39,7 @@ Videos :
 
 Videos : 
 
-- From SQL  ****———To ———>   [**Solution To: "Saving changes is not permitted" error ]**
+- From SQL  ———To ———>   [**Solution To: "Saving changes is not permitted" error ]**
 
 **Key concepts:** `CREATE` / `ALTER` / `DROP`, data types, backup and restore, `INSERT` / `UPDATE` / `DELETE`, identity columns, `DELETE` versus `TRUNCATE`, foreign keys.
 
