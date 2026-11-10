@@ -30,7 +30,7 @@
 - [ ]  Top-K problems
 - [ ]  Practice: problems (Two Sum, group anagrams)  and Implementation DS
 
-## Part 4: Advanced Topics
+## Part 4: Remaining Topics
 
 ### Week 5: Sorting algorithms
 
@@ -53,17 +53,13 @@
 - [ ]  Binary search on the answer
 - [ ]  Practice: 10 - 15 problems
 
-### Week 8: Recursion
+### Week 8: Recursion & Backtracking
 
 - [ ]  Recursion tree
 - [ ]  Complexity of recursion
-- [ ]  Practice: 10 problems
-
-### Week 9: Backtracking
-
 - [ ]  Subsets, permutations, combinations
 - [ ]  N-Queens
-- [ ]  Practice: 10 problems
+- [ ]  Practice: 10 - 15 problems
 
 ### Week 10: Divide & Conquer
 
@@ -96,31 +92,19 @@
 - [ ]  Dijkstra with one or more state trick
 - [ ]  Practice: 10 problems
 
-### Week 14: DP 1
+### Week 14: DP (Recursive)
 
-- [ ]  Memoization vs tabulation
-- [ ]  Fibonacci, climbing stairs, house robber
+- [ ]  Memoization
 - [ ]  0/1 knapsack
-- [ ]  Coin change
+- [ ]  Fibonacci, LCS
+- [ ]  DP Building output
 - [ ]  Practice: 15 problems
 
-### Week 15: DP 2
-
-- [ ]  Grid DP
-- [ ]  LIS and LCS
-- [ ]  Edit distance (intro)
-- [ ]  Practice: 15 problems
-
-### Week 16: Bitmask
+### Week 15: Bitmask
 
 - [ ]  AND, OR, XOR, shifts
 - [ ]  Subsets with bitmask
 - [ ]  Practice: 10 problems
-
-### Week 17: Fenwick / Segment Tree
-
-- [ ]  Fenwick tree (intro)
-- [ ]  Segment tree (intro)
 
 ## Resources
 
